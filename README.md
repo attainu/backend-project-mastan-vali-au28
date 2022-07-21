@@ -2,28 +2,36 @@
 
 DESCRIPTION:
 
-Customer relationship management system is a technology for managing all your company's relationships and interactions with potential customers.
+    Customer relationship management system is a technology for managing all your company's relationships and interactions with potential customers.
 
 
 FEATURES:
 
-Signup-Login-Logout.
-User Management - Create, Read, Delete, and Update.
+    Signup-Login-Logout.
+
+    User Management -   Create, 
+                        
+                        Read, 
+                        
+                        Delete, and 
+                        
+                        Update.
 
 
 TECHNOLOGIES USED:
 
-➢ Nodejs
+    ➢ Nodejs
 
-➢ Express
+    ➢ Express
 
-➢ Express-handlebars
+    ➢ Express-handlebars
 
-➢ Mysql
+    ➢ Mysql
 
-➢ body-parser
+    ➢ body-parser
 
-➢ dotenv
+    ➢ dotenv
+
 
 GOAL OF THIS PROJECT:
 
