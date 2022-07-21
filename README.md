@@ -1,4 +1,4 @@
-SOFIA_CRMS
+                                                SOFIA_CRMS
 
 DESCRIPTION:
 
@@ -8,8 +8,8 @@ Customer relationship management system is a technology for managing all your co
 FEATURES:
 
 Signup-Login-Logout.
-
 User Management - Create, Read, Delete, and Update.
+
 
 TECHNOLOGIES USED:
 
